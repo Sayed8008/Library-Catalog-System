@@ -1,0 +1,47 @@
+Operating Systems|3
+Database Systems|2
+Computer Networks|2
+Discrete Mathematics|3
+Linear Algebra|2
+Digital Logic Design|2
+Artificial Intelligence|2
+Machine Learning|2
+Data Science Handbook|2
+Software Engineering|3
+Clean Code|2
+The Pragmatic Programmer|2
+Design Patterns|2
+Introduction to Algorithms|2
+C Programming Language|3
+C++ Primer|2
+Python Crash Course|3
+Java Fundamentals|2
+Web Development Basics|2
+Cyber Security Basics|2
+Cryptography|2
+Computer Architecture|2
+Microprocessors|2
+Signals and Systems|2
+Control Systems|2
+Engineering Mathematics|3
+Physics Fundamentals|3
+Chemistry Basics|2
+Biology Essentials|2
+Economics Principles|2
+Business Studies|2
+Accounting Basics|2
+Statistics|2
+Probability Theory|2
+Numerical Methods|2
+Game of Thrones|2
+The Hobbit|3
+Lord of the Rings|2
+Sherlock Holmes|3
+The Alchemist|3
+Rich Dad Poor Dad|2
+Think and Grow Rich|2
+Atomic Habits|3
+Deep Work|2
+The Psychology of Money|2
+Ikigai|2
+The Power of Habit|2

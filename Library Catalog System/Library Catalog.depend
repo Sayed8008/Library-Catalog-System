@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1777403998 source:c:\users\hp\documents\project\library catalog\main.cpp
+	<bits/stdc++.h>
+	<conio.h>
+	<windows.h>
+
